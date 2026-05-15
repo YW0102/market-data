@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-15T08:06:30Z",
-  "generated_at_taipei": "2026-05-15 16:06:30+08:00",
+  "generated_at_utc": "2026-05-15T08:07:29Z",
+  "generated_at_taipei": "2026-05-15 16:07:29+08:00",
   "taipei_date": "2026-05-15",
   "summary": {
     "total": 23,
@@ -202,9 +202,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-15",
-      "close": 99.104,
+      "close": 99.102,
       "prev": 98.88,
-      "pct": 0.23
+      "pct": 0.22
     },
     "VIX": {
       "name": "VIX",
