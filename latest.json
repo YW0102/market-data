@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-22T03:23:59Z",
-  "generated_at_taipei": "2026-05-22 11:23:59+08:00",
+  "generated_at_utc": "2026-05-22T03:28:47Z",
+  "generated_at_taipei": "2026-05-22 11:28:47+08:00",
   "taipei_date": "2026-05-22",
   "summary": {
     "total": 23,
@@ -11,29 +11,29 @@
     "台股加權": {
       "name": "台股加權",
       "status": "ok",
-      "source": "yahoo",
-      "date": "2026-05-22",
-      "close": 41908.1602,
-      "prev": 41368.2109,
-      "pct": 1.31
+      "source": "twse_index",
+      "date": "2026-05-21",
+      "close": 41368.21,
+      "prev": 40020.82,
+      "pct": 3.37
     },
     "台積電(2330)": {
       "name": "台積電(2330)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 2235.0,
+      "close": 2230.0,
       "prev": 2230.0,
-      "pct": 0.22
+      "pct": 0.0
     },
     "玉山金(2884)": {
       "name": "玉山金(2884)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 31.45,
+      "close": 31.4,
       "prev": 31.55,
-      "pct": -0.32
+      "pct": -0.48
     },
     "兆豐金(2886)": {
       "name": "兆豐金(2886)",
@@ -49,27 +49,27 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 54.9,
+      "close": 54.7,
       "prev": 54.7,
-      "pct": 0.37
+      "pct": 0.0
     },
     "台達電(2308)": {
       "name": "台達電(2308)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 2060.0,
+      "close": 2050.0,
       "prev": 2030.0,
-      "pct": 1.48
+      "pct": 0.99
     },
     "廣達(2382)": {
       "name": "廣達(2382)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 315.0,
+      "close": 314.0,
       "prev": 308.0,
-      "pct": 2.27
+      "pct": 1.95
     },
     "健策(3653)": {
       "name": "健策(3653)",
@@ -85,9 +85,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-22",
-      "close": 2450.0,
+      "close": 2435.0,
       "prev": 2335.0,
-      "pct": 4.93
+      "pct": 4.28
     },
     "S&P500": {
       "name": "S&P500",
@@ -202,9 +202,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-05-21",
-      "close": 99.267,
+      "close": 99.26,
       "prev": 99.19,
-      "pct": 0.08
+      "pct": 0.07
     },
     "VIX": {
       "name": "VIX",
