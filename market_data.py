@@ -143,6 +143,25 @@ BACKUP_FUNCS = {
 
 
 def get_quote(name, yahoo_sym, backup_sym, backup_src):
+    # 特例：TWSE 官方加權指數為主來源（Yahoo 對 ^TWII 凌晨更新嚴重落後）
+    # Yahoo 此處降為備援，僅在 TWSE 失敗時頂上
+    if backup_src == "twse_index":
+        twse_err = None
+        try:
+            result = fetch_twse_index()
+            if result:
+                return _make_quote(name, "twse_index", result)
+            twse_err = "no data"
+        except Exception as e:
+            twse_err = f"{type(e).__name__}: {str(e)[:80]}"
+        try:
+            result = fetch_yahoo(yahoo_sym)
+            if result:
+                return _make_quote(name, "yahoo", result)
+            return {"name": name, "status": "missing", "error": f"twse_index: {twse_err}; yahoo: no data"}
+        except Exception as e:
+            return {"name": name, "status": "missing", "error": f"twse_index: {twse_err}; yahoo: {type(e).__name__}: {str(e)[:80]}"}
+
     yahoo_err = None
     try:
         result = fetch_yahoo(yahoo_sym)
