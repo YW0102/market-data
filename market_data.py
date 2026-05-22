@@ -1,7 +1,7 @@
 """
 理財早課市場數據抓取（GitHub Actions 版）
 主來源：Yahoo Finance v8 chart API
-備援：FinMind（台股 + 美股個股）、Stooq（美股指數 + DXY）
+備援：FinMind（台股 + 美股個股）、Stooq（美股指數 + DXY）、TWSE 官方 API（台股加權）
 輸出：latest.json（給 routine 透過 raw.githubusercontent.com 讀取）
 """
 import requests
@@ -17,7 +17,7 @@ TAIPEI_TZ = timezone(timedelta(hours=8))
 
 # 標的清單：(顯示名稱, Yahoo symbol, 備援 symbol, 備援來源)
 SYMBOLS = [
-    ("台股加權",     "^TWII",     None,       None),
+    ("台股加權",     "^TWII",     "TWII",     "twse_index"),
     ("台積電(2330)", "2330.TW",   "2330",     "finmind_tw"),
     ("玉山金(2884)", "2884.TW",   "2884",     "finmind_tw"),
     ("兆豐金(2886)", "2886.TW",   "2886",     "finmind_tw"),
@@ -97,10 +97,48 @@ def fetch_finmind_us(symbol):
     return _fetch_finmind("USStockPrice", symbol)
 
 
+def fetch_twse_index(_=None):
+    """TWSE 官方加權指數，從當月（不夠則往前一個月）取最新兩個交易日"""
+    today = datetime.now(TAIPEI_TZ)
+    first_this = today.replace(day=1)
+    first_prev = (first_this - timedelta(days=1)).replace(day=1)
+    months = [first_this.strftime("%Y%m%d"), first_prev.strftime("%Y%m%d")]
+    rows = []
+    for ym in months:
+        url = f"https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date={ym}"
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            month_rows = r.json().get("data", []) or []
+            rows = month_rows + rows
+        except Exception:
+            continue
+        if len(rows) >= 2:
+            break
+    if not rows:
+        return None
+
+    def roc_to_ad(s):
+        y, m, d = s.split("/")
+        return f"{int(y) + 1911}-{m.zfill(2)}-{d.zfill(2)}"
+
+    def to_float(s):
+        return float(str(s).replace(",", ""))
+
+    last = rows[-1]
+    prev = rows[-2] if len(rows) >= 2 else None
+    return (
+        roc_to_ad(last[0]),
+        to_float(last[4]),
+        to_float(prev[4]) if prev else None,
+    )
+
+
 BACKUP_FUNCS = {
     "finmind_tw": fetch_finmind_tw,
     "finmind_us": fetch_finmind_us,
     "stooq": fetch_stooq,
+    "twse_index": fetch_twse_index,
 }
 
 
