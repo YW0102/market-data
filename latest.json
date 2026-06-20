@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-19T22:28:03Z",
-  "generated_at_taipei": "2026-06-20 06:28:03+08:00",
-  "taipei_date": "2026-06-20",
+  "generated_at_utc": "2026-06-20T22:37:52Z",
+  "generated_at_taipei": "2026-06-21 06:37:52+08:00",
+  "taipei_date": "2026-06-21",
   "summary": {
     "total": 23,
     "success": 23,
@@ -208,10 +208,10 @@
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-06-19",
-      "close": 16.78,
-      "prev": 16.4,
-      "pct": 2.32
+      "date": "2026-06-17",
+      "close": 18.44,
+      "prev": 16.41,
+      "pct": 12.37
     }
   },
   "missing_names": []
