@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-26T22:39:25Z",
-  "generated_at_taipei": "2026-06-27 06:39:25+08:00",
-  "taipei_date": "2026-06-27",
+  "generated_at_utc": "2026-06-27T22:33:02Z",
+  "generated_at_taipei": "2026-06-28 06:33:02+08:00",
+  "taipei_date": "2026-06-28",
   "summary": {
     "total": 23,
     "success": 23,
@@ -12,10 +12,10 @@
       "name": "台股加權",
       "status": "ok",
       "source": "twse_index",
-      "date": "2017-12-29",
-      "close": 10642.86,
-      "prev": 10567.64,
-      "pct": 0.71
+      "date": "2026-06-26",
+      "close": 44571.76,
+      "prev": 46255.26,
+      "pct": -3.64
     },
     "台積電(2330)": {
       "name": "台積電(2330)",
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-06-26",
-      "close": 25297.6172,
+      "close": 25297.6191,
       "prev": 25358.5996,
       "pct": -0.24
     },
@@ -112,7 +112,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-06-26",
-      "close": 13203.5693,
+      "close": 13203.5703,
       "prev": 13940.8701,
       "pct": -5.29
     },
@@ -200,9 +200,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-06-26",
-      "close": 101.366,
+      "close": 101.36,
       "prev": 101.43,
-      "pct": -0.06
+      "pct": -0.07
     },
     "VIX": {
       "name": "VIX",
