@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-04T22:15:54Z",
-  "generated_at_taipei": "2026-07-05 06:15:54+08:00",
-  "taipei_date": "2026-07-05",
+  "generated_at_utc": "2026-07-05T22:26:48Z",
+  "generated_at_taipei": "2026-07-06 06:26:48+08:00",
+  "taipei_date": "2026-07-06",
   "summary": {
     "total": 23,
     "success": 23,
@@ -192,17 +192,19 @@
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-06-26",
-      "close": 4.372
+      "date": "2026-07-02",
+      "close": 4.485,
+      "prev": 4.475,
+      "pct": 0.22
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-07-03",
-      "close": 100.857,
+      "date": "2026-07-05",
+      "close": 100.867,
       "prev": 100.86,
-      "pct": -0.0
+      "pct": 0.01
     },
     "VIX": {
       "name": "VIX",
