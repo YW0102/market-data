@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-10T22:29:10Z",
-  "generated_at_taipei": "2026-07-11 06:29:10+08:00",
-  "taipei_date": "2026-07-11",
+  "generated_at_utc": "2026-07-11T22:10:52Z",
+  "generated_at_taipei": "2026-07-12 06:10:52+08:00",
+  "taipei_date": "2026-07-12",
   "summary": {
     "total": 23,
     "success": 23,
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-10",
-      "close": 26281.6074,
+      "close": 26281.6094,
       "prev": 26206.8906,
       "pct": 0.29
     },
@@ -112,7 +112,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-10",
-      "close": 12967.1631,
+      "close": 12967.1602,
       "prev": 12960.0,
       "pct": 0.06
     },
@@ -202,9 +202,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-10",
-      "close": 100.965,
+      "close": 100.97,
       "prev": 100.94,
-      "pct": 0.02
+      "pct": 0.03
     },
     "VIX": {
       "name": "VIX",
