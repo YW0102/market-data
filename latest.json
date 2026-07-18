@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-17T22:09:48Z",
-  "generated_at_taipei": "2026-07-18 06:09:48+08:00",
-  "taipei_date": "2026-07-18",
+  "generated_at_utc": "2026-07-18T22:10:20Z",
+  "generated_at_taipei": "2026-07-19 06:10:20+08:00",
+  "taipei_date": "2026-07-19",
   "summary": {
     "total": 23,
     "success": 23,
@@ -11,10 +11,10 @@
     "台股加權": {
       "name": "台股加權",
       "status": "ok",
-      "source": "twse_index",
+      "source": "yahoo",
       "date": "2026-07-17",
-      "close": 42671.27,
-      "prev": 45624.98,
+      "close": 42671.2695,
+      "prev": 45624.9805,
       "pct": -6.47
     },
     "台積電(2330)": {
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-17",
-      "close": 25520.2441,
+      "close": 25520.2402,
       "prev": 25881.9492,
       "pct": -1.4
     },
@@ -112,7 +112,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-17",
-      "close": 11673.8887,
+      "close": 11673.8896,
       "prev": 11867.5,
       "pct": -1.63
     },
@@ -202,7 +202,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-17",
-      "close": 100.755,
+      "close": 100.75,
       "prev": 100.73,
       "pct": 0.02
     },
