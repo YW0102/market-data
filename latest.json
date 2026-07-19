@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-18T22:10:20Z",
-  "generated_at_taipei": "2026-07-19 06:10:20+08:00",
-  "taipei_date": "2026-07-19",
+  "generated_at_utc": "2026-07-19T22:12:17Z",
+  "generated_at_taipei": "2026-07-20 06:12:17+08:00",
+  "taipei_date": "2026-07-20",
   "summary": {
     "total": 23,
     "success": 23,
@@ -11,10 +11,10 @@
     "台股加權": {
       "name": "台股加權",
       "status": "ok",
-      "source": "yahoo",
+      "source": "twse_index",
       "date": "2026-07-17",
-      "close": 42671.2695,
-      "prev": 45624.9805,
+      "close": 42671.27,
+      "prev": 45624.98,
       "pct": -6.47
     },
     "台積電(2330)": {
@@ -201,10 +201,10 @@
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-07-17",
-      "close": 100.75,
-      "prev": 100.73,
-      "pct": 0.02
+      "date": "2026-07-19",
+      "close": 100.834,
+      "prev": 100.75,
+      "pct": 0.08
     },
     "VIX": {
       "name": "VIX",
