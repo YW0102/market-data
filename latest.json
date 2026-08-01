@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-31T22:28:22Z",
-  "generated_at_taipei": "2026-08-01 06:28:22+08:00",
-  "taipei_date": "2026-08-01",
+  "generated_at_utc": "2026-08-01T22:14:39Z",
+  "generated_at_taipei": "2026-08-02 06:14:39+08:00",
+  "taipei_date": "2026-08-02",
   "summary": {
     "total": 23,
     "success": 23,
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-31",
-      "close": 25373.8535,
+      "close": 25373.8496,
       "prev": 25122.1797,
       "pct": 1.0
     },
@@ -112,7 +112,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-31",
-      "close": 11311.0752,
+      "close": 11311.0801,
       "prev": 11302.9902,
       "pct": 0.07
     },
@@ -202,7 +202,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-07-31",
-      "close": 99.803,
+      "close": 99.8,
       "prev": 100.01,
       "pct": -0.21
     },
