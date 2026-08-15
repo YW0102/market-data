@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-14T21:44:41Z",
-  "generated_at_taipei": "2026-08-15 05:44:41+08:00",
-  "taipei_date": "2026-08-15",
+  "generated_at_utc": "2026-08-15T21:40:15Z",
+  "generated_at_taipei": "2026-08-16 05:40:15+08:00",
+  "taipei_date": "2026-08-16",
   "summary": {
     "total": 23,
     "success": 23,
@@ -30,19 +30,19 @@
       "name": "玉山金(2884)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-08-13",
-      "close": 37.3,
-      "prev": 36.75,
-      "pct": 1.5
+      "date": "2026-08-14",
+      "close": 37.65,
+      "prev": 37.3,
+      "pct": 0.94
     },
     "兆豐金(2886)": {
       "name": "兆豐金(2886)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-08-13",
-      "close": 45.85,
-      "prev": 48.7,
-      "pct": -5.85
+      "date": "2026-08-14",
+      "close": 47.35,
+      "prev": 45.85,
+      "pct": 3.27
     },
     "元大金(2885)": {
       "name": "元大金(2885)",
@@ -75,10 +75,10 @@
       "name": "健策(3653)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-08-13",
-      "close": 4635.0,
-      "prev": 4470.0,
-      "pct": 3.69
+      "date": "2026-08-14",
+      "close": 4855.0,
+      "prev": 4635.0,
+      "pct": 4.75
     },
     "群聯(8299)": {
       "name": "群聯(8299)",
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-08-14",
-      "close": 26729.1641,
+      "close": 26729.1602,
       "prev": 26803.0293,
       "pct": -0.28
     },
@@ -202,9 +202,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-08-14",
-      "close": 99.636,
+      "close": 99.67,
       "prev": 99.96,
-      "pct": -0.32
+      "pct": -0.29
     },
     "VIX": {
       "name": "VIX",
