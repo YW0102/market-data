@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T23:05:21Z",
-  "generated_at_taipei": "2026-09-05 07:05:21+08:00",
-  "taipei_date": "2026-09-05",
+  "generated_at_utc": "2026-09-05T23:00:58Z",
+  "generated_at_taipei": "2026-09-06 07:00:58+08:00",
+  "taipei_date": "2026-09-06",
   "summary": {
     "total": 23,
     "success": 23,
@@ -112,7 +112,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-09-04",
-      "close": 11735.2627,
+      "close": 11735.2598,
       "prev": 11352.1299,
       "pct": 3.37
     },
@@ -202,7 +202,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-09-04",
-      "close": 99.157,
+      "close": 99.16,
       "prev": 99.0,
       "pct": 0.16
     },
