@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-27T23:50:35Z",
-  "generated_at_taipei": "2026-09-28 07:50:35+08:00",
-  "taipei_date": "2026-09-28",
+  "generated_at_utc": "2026-09-29T01:03:48Z",
+  "generated_at_taipei": "2026-09-29 09:03:48+08:00",
+  "taipei_date": "2026-09-29",
   "summary": {
     "total": 23,
     "success": 23,
@@ -93,28 +93,28 @@
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 7743.4102,
-      "prev": 7704.1299,
-      "pct": 0.51
+      "date": "2026-09-28",
+      "close": 7683.6899,
+      "prev": 7743.4102,
+      "pct": -0.77
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 27068.7207,
-      "prev": 26939.3691,
-      "pct": 0.48
+      "date": "2026-09-28",
+      "close": 26820.3809,
+      "prev": 27068.7207,
+      "pct": -0.92
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 12668.9297,
-      "prev": 12492.54,
-      "pct": 1.41
+      "date": "2026-09-28",
+      "close": 12465.2412,
+      "prev": 12668.9297,
+      "pct": -1.61
     },
     "NVDA": {
       "name": "NVDA",
@@ -192,28 +192,28 @@
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 5.184,
-      "prev": 5.162,
-      "pct": 0.43
+      "date": "2026-09-28",
+      "close": 5.24,
+      "prev": 5.184,
+      "pct": 1.08
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 100.97,
-      "prev": 101.29,
-      "pct": -0.32
+      "date": "2026-09-28",
+      "close": 101.246,
+      "prev": 100.97,
+      "pct": 0.27
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-09-25",
-      "close": 14.87,
-      "prev": 15.67,
-      "pct": -5.11
+      "date": "2026-09-28",
+      "close": 16.07,
+      "prev": 14.87,
+      "pct": 8.07
     }
   },
   "missing_names": []
