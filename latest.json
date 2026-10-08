@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-07T00:50:04Z",
-  "generated_at_taipei": "2026-10-07 08:50:04+08:00",
-  "taipei_date": "2026-10-07",
+  "generated_at_utc": "2026-10-08T01:05:27Z",
+  "generated_at_taipei": "2026-10-08 09:05:27+08:00",
+  "taipei_date": "2026-10-08",
   "summary": {
     "total": 23,
     "success": 23,
@@ -12,109 +12,109 @@
       "name": "台股加權",
       "status": "ok",
       "source": "twse_index",
-      "date": "2026-10-06",
-      "close": 49822.55,
-      "prev": 49712.04,
-      "pct": 0.22
+      "date": "2026-10-07",
+      "close": 49806.37,
+      "prev": 49822.55,
+      "pct": -0.03
     },
     "台積電(2330)": {
       "name": "台積電(2330)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "close": 2585.0,
-      "prev": 2575.0,
-      "pct": 0.39
+      "prev": 2585.0,
+      "pct": 0.0
     },
     "玉山金(2884)": {
       "name": "玉山金(2884)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 45.45,
-      "prev": 44.8,
-      "pct": 1.45
+      "date": "2026-10-07",
+      "close": 45.75,
+      "prev": 45.45,
+      "pct": 0.66
     },
     "兆豐金(2886)": {
       "name": "兆豐金(2886)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 49.3,
-      "prev": 48.55,
-      "pct": 1.54
+      "date": "2026-10-07",
+      "close": 49.8,
+      "prev": 49.3,
+      "pct": 1.01
     },
     "元大金(2885)": {
       "name": "元大金(2885)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 69.3,
-      "prev": 68.2,
-      "pct": 1.61
+      "date": "2026-10-07",
+      "close": 70.0,
+      "prev": 69.3,
+      "pct": 1.01
     },
     "台達電(2308)": {
       "name": "台達電(2308)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 2050.0,
-      "prev": 2005.0,
-      "pct": 2.24
+      "date": "2026-10-07",
+      "close": 1990.0,
+      "prev": 2050.0,
+      "pct": -2.93
     },
     "廣達(2382)": {
       "name": "廣達(2382)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 333.5,
-      "prev": 331.0,
-      "pct": 0.76
+      "date": "2026-10-07",
+      "close": 335.0,
+      "prev": 333.5,
+      "pct": 0.45
     },
     "健策(3653)": {
       "name": "健策(3653)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 7080.0,
-      "prev": 7205.0,
-      "pct": -1.73
+      "date": "2026-10-07",
+      "close": 6805.0,
+      "prev": 7080.0,
+      "pct": -3.88
     },
     "群聯(8299)": {
       "name": "群聯(8299)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 2090.0,
-      "prev": 2100.0,
-      "pct": -0.48
+      "date": "2026-10-07",
+      "close": 2060.0,
+      "prev": 2090.0,
+      "pct": -1.44
     },
     "S&P500": {
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 7818.9302,
-      "prev": 7773.9502,
-      "pct": 0.58
+      "date": "2026-10-07",
+      "close": 7801.77,
+      "prev": 7818.9302,
+      "pct": -0.22
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 27599.8867,
-      "prev": 27477.3105,
-      "pct": 0.45
+      "date": "2026-10-07",
+      "close": 27538.6914,
+      "prev": 27599.7891,
+      "pct": -0.22
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 13217.8232,
-      "prev": 13172.7402,
-      "pct": 0.34
+      "date": "2026-10-07",
+      "close": 13066.1494,
+      "prev": 13217.8203,
+      "pct": -1.15
     },
     "NVDA": {
       "name": "NVDA",
@@ -138,19 +138,19 @@
       "name": "GOOG",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-05",
-      "close": 343.83,
-      "prev": 340.35,
-      "pct": 1.02
+      "date": "2026-10-06",
+      "close": 344.59,
+      "prev": 343.83,
+      "pct": 0.22
     },
     "PLTR": {
       "name": "PLTR",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-05",
-      "close": 189.4,
-      "prev": 188.75,
-      "pct": 0.34
+      "date": "2026-10-06",
+      "close": 192.07,
+      "prev": 189.4,
+      "pct": 1.41
     },
     "SPY": {
       "name": "SPY",
@@ -192,28 +192,28 @@
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 5.269,
-      "prev": 5.311,
-      "pct": -0.79
+      "date": "2026-10-07",
+      "close": 5.277,
+      "prev": 5.269,
+      "pct": 0.15
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 101.942,
+      "date": "2026-10-07",
+      "close": 102.239,
       "prev": 101.83,
-      "pct": 0.11
+      "pct": 0.4
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-06",
-      "close": 15.01,
-      "prev": 15.52,
-      "pct": -3.29
+      "date": "2026-10-07",
+      "close": 15.08,
+      "prev": 15.01,
+      "pct": 0.47
     }
   },
   "missing_names": []
