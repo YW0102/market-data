@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-09T01:17:09Z",
-  "generated_at_taipei": "2026-10-09 09:17:09+08:00",
-  "taipei_date": "2026-10-09",
+  "generated_at_utc": "2026-10-10T01:01:30Z",
+  "generated_at_taipei": "2026-10-10 09:01:30+08:00",
+  "taipei_date": "2026-10-10",
   "summary": {
     "total": 23,
     "success": 23,
@@ -93,127 +93,127 @@
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 7765.3599,
-      "prev": 7801.77,
-      "pct": -0.47
+      "date": "2026-10-09",
+      "close": 7811.54,
+      "prev": 7765.3599,
+      "pct": 0.59
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 27193.3398,
-      "prev": 27538.6895,
-      "pct": -1.25
+      "date": "2026-10-09",
+      "close": 27366.1699,
+      "prev": 27193.3398,
+      "pct": 0.64
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 12623.7148,
-      "prev": 13066.1504,
-      "pct": -3.39
+      "date": "2026-10-09",
+      "close": 12572.4199,
+      "prev": 12623.71,
+      "pct": -0.41
     },
     "NVDA": {
       "name": "NVDA",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 237.47,
-      "prev": 239.24,
-      "pct": -0.74
+      "date": "2026-10-08",
+      "close": 230.48,
+      "prev": 237.47,
+      "pct": -2.94
     },
     "MU": {
       "name": "MU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 1088.0,
-      "prev": 1045.5601,
-      "pct": 4.06
+      "date": "2026-10-08",
+      "close": 1035.84,
+      "prev": 1088.0,
+      "pct": -4.79
     },
     "GOOG": {
       "name": "GOOG",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 347.37,
-      "prev": 344.59,
-      "pct": 0.81
+      "date": "2026-10-08",
+      "close": 344.86,
+      "prev": 347.37,
+      "pct": -0.72
     },
     "PLTR": {
       "name": "PLTR",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 194.12,
-      "prev": 192.07,
-      "pct": 1.07
+      "date": "2026-10-08",
+      "close": 198.78,
+      "prev": 194.12,
+      "pct": 2.4
     },
     "SPY": {
       "name": "SPY",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 777.22,
-      "prev": 779.09,
-      "pct": -0.24
+      "date": "2026-10-08",
+      "close": 773.93,
+      "prev": 777.22,
+      "pct": -0.42
     },
     "QQQ": {
       "name": "QQQ",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 757.73,
-      "prev": 759.66,
-      "pct": -0.25
+      "date": "2026-10-08",
+      "close": 747.58,
+      "prev": 757.73,
+      "pct": -1.34
     },
     "VTI": {
       "name": "VTI",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 381.03,
-      "prev": 382.54,
+      "date": "2026-10-08",
+      "close": 379.56,
+      "prev": 381.03,
       "pct": -0.39
     },
     "UUUU": {
       "name": "UUUU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-07",
-      "close": 10.26,
-      "prev": 11.26,
-      "pct": -8.88
+      "date": "2026-10-08",
+      "close": 9.94,
+      "prev": 10.26,
+      "pct": -3.12
     },
     "美債10Y": {
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 5.231,
-      "prev": 5.277,
-      "pct": -0.87
+      "date": "2026-10-09",
+      "close": 5.244,
+      "prev": 5.231,
+      "pct": 0.25
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 102.068,
-      "prev": 102.24,
-      "pct": -0.17
+      "date": "2026-10-09",
+      "close": 102.231,
+      "prev": 102.14,
+      "pct": 0.09
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-08",
-      "close": 15.41,
-      "prev": 15.08,
-      "pct": 2.19
+      "date": "2026-10-09",
+      "close": 14.84,
+      "prev": 15.41,
+      "pct": -3.7
     }
   },
   "missing_names": []
