@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-17T23:12:48Z",
-  "generated_at_taipei": "2026-10-18 07:12:48+08:00",
-  "taipei_date": "2026-10-18",
+  "generated_at_utc": "2026-10-18T23:22:55Z",
+  "generated_at_taipei": "2026-10-19 07:22:55+08:00",
+  "taipei_date": "2026-10-19",
   "summary": {
     "total": 23,
     "success": 23,
@@ -201,10 +201,10 @@
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-16",
-      "close": 101.84,
-      "prev": 102.0,
-      "pct": -0.16
+      "date": "2026-10-18",
+      "close": 101.915,
+      "prev": 101.84,
+      "pct": 0.07
     },
     "VIX": {
       "name": "VIX",
