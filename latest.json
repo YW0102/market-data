@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-25T23:21:22Z",
-  "generated_at_taipei": "2026-10-26 07:21:22+08:00",
-  "taipei_date": "2026-10-26",
+  "generated_at_utc": "2026-10-27T00:36:26Z",
+  "generated_at_taipei": "2026-10-27 08:36:26+08:00",
+  "taipei_date": "2026-10-27",
   "summary": {
     "total": 23,
     "success": 23,
@@ -93,28 +93,28 @@
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 7623.6802,
-      "prev": 7663.4302,
-      "pct": -0.52
+      "date": "2026-10-26",
+      "close": 7676.77,
+      "prev": 7623.6802,
+      "pct": 0.7
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 25955.3398,
-      "prev": 26008.8594,
-      "pct": -0.21
+      "date": "2026-10-26",
+      "close": 26169.3809,
+      "prev": 25955.3398,
+      "pct": 0.82
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 10779.46,
-      "prev": 10731.9805,
-      "pct": 0.44
+      "date": "2026-10-26",
+      "close": 11083.4697,
+      "prev": 10779.46,
+      "pct": 2.82
     },
     "NVDA": {
       "name": "NVDA",
@@ -192,28 +192,28 @@
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 4.988,
-      "prev": 4.953,
-      "pct": 0.71
+      "date": "2026-10-26",
+      "close": 4.986,
+      "prev": 4.988,
+      "pct": -0.04
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 101.81,
-      "prev": 101.61,
+      "date": "2026-10-26",
+      "close": 102.015,
+      "prev": 101.81,
       "pct": 0.2
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-23",
-      "close": 19.45,
-      "prev": 19.03,
-      "pct": 2.21
+      "date": "2026-10-26",
+      "close": 18.39,
+      "prev": 19.45,
+      "pct": -5.45
     }
   },
   "missing_names": []
