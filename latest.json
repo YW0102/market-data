@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-31T00:52:55Z",
-  "generated_at_taipei": "2026-10-31 08:52:55+08:00",
-  "taipei_date": "2026-10-31",
+  "generated_at_utc": "2026-11-01T00:12:39Z",
+  "generated_at_taipei": "2026-11-01 08:12:39+08:00",
+  "taipei_date": "2026-11-01",
   "summary": {
     "total": 23,
     "success": 23,
@@ -103,7 +103,7 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-10-30",
-      "close": 25436.998,
+      "close": 25437.0,
       "prev": 26184.7207,
       "pct": -2.86
     },
@@ -120,73 +120,73 @@
       "name": "NVDA",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 213.66,
-      "prev": 215.38,
-      "pct": -0.8
+      "date": "2026-10-30",
+      "close": 204.64,
+      "prev": 213.66,
+      "pct": -4.22
     },
     "MU": {
       "name": "MU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 934.27,
-      "prev": 983.23,
-      "pct": -4.98
+      "date": "2026-10-30",
+      "close": 884.74,
+      "prev": 934.27,
+      "pct": -5.3
     },
     "GOOG": {
       "name": "GOOG",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 282.32,
-      "prev": 321.89,
-      "pct": -12.29
+      "date": "2026-10-30",
+      "close": 278.22,
+      "prev": 282.32,
+      "pct": -1.45
     },
     "PLTR": {
       "name": "PLTR",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 196.42,
-      "prev": 196.81,
-      "pct": -0.2
+      "date": "2026-10-30",
+      "close": 184.11,
+      "prev": 196.42,
+      "pct": -6.27
     },
     "SPY": {
       "name": "SPY",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 769.36,
-      "prev": 772.31,
-      "pct": -0.38
+      "date": "2026-10-30",
+      "close": 755.72,
+      "prev": 769.36,
+      "pct": -1.77
     },
     "QQQ": {
       "name": "QQQ",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 715.34,
-      "prev": 725.61,
-      "pct": -1.42
+      "date": "2026-10-30",
+      "close": 690.49,
+      "prev": 715.34,
+      "pct": -3.47
     },
     "VTI": {
       "name": "VTI",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 378.24,
-      "prev": 379.17,
-      "pct": -0.25
+      "date": "2026-10-30",
+      "close": 371.57,
+      "prev": 378.24,
+      "pct": -1.76
     },
     "UUUU": {
       "name": "UUUU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-10-29",
-      "close": 8.23,
-      "prev": 8.39,
-      "pct": -1.91
+      "date": "2026-10-30",
+      "close": 7.71,
+      "prev": 8.23,
+      "pct": -6.32
     },
     "美債10Y": {
       "name": "美債10Y",
@@ -202,9 +202,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-10-30",
-      "close": 101.964,
+      "close": 101.88,
       "prev": 102.04,
-      "pct": -0.07
+      "pct": -0.16
     },
     "VIX": {
       "name": "VIX",
