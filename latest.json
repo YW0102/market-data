@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-19T02:40:01Z",
-  "generated_at_taipei": "2026-11-19 10:40:01+08:00",
-  "taipei_date": "2026-11-19",
+  "generated_at_utc": "2026-11-20T02:25:03Z",
+  "generated_at_taipei": "2026-11-20 10:25:03+08:00",
+  "taipei_date": "2026-11-20",
   "summary": {
     "total": 23,
     "success": 23,
@@ -12,127 +12,127 @@
       "name": "台股加權",
       "status": "ok",
       "source": "twse_index",
-      "date": "2026-11-18",
-      "close": 40194.91,
-      "prev": 40092.11,
-      "pct": 0.26
+      "date": "2026-11-19",
+      "close": 38426.89,
+      "prev": 40194.91,
+      "pct": -4.4
     },
     "台積電(2330)": {
       "name": "台積電(2330)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 2150.0,
-      "prev": 2175.0,
-      "pct": -1.15
+      "date": "2026-11-20",
+      "close": 2010.0,
+      "prev": 2100.0,
+      "pct": -4.29
     },
     "玉山金(2884)": {
       "name": "玉山金(2884)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 40.25,
-      "prev": 42.15,
-      "pct": -4.51
+      "date": "2026-11-20",
+      "close": 39.8,
+      "prev": 40.35,
+      "pct": -1.36
     },
     "兆豐金(2886)": {
       "name": "兆豐金(2886)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 54.5,
-      "prev": 52.6,
-      "pct": 3.61
+      "date": "2026-11-20",
+      "close": 52.0,
+      "prev": 53.4,
+      "pct": -2.62
     },
     "元大金(2885)": {
       "name": "元大金(2885)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 63.0,
-      "prev": 64.9,
-      "pct": -2.93
+      "date": "2026-11-20",
+      "close": 60.0,
+      "prev": 63.2,
+      "pct": -5.06
     },
     "台達電(2308)": {
       "name": "台達電(2308)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 1015.0,
-      "prev": 1060.0,
-      "pct": -4.25
+      "date": "2026-11-20",
+      "close": 900.0,
+      "prev": 1000.0,
+      "pct": -10.0
     },
     "廣達(2382)": {
       "name": "廣達(2382)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 262.0,
-      "prev": 265.0,
-      "pct": -1.13
+      "date": "2026-11-20",
+      "close": 249.0,
+      "prev": 262.5,
+      "pct": -5.14
     },
     "健策(3653)": {
       "name": "健策(3653)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 4140.0,
-      "prev": 4570.0,
-      "pct": -9.41
+      "date": "2026-11-20",
+      "close": 3705.0,
+      "prev": 4115.0,
+      "pct": -9.96
     },
     "群聯(8299)": {
       "name": "群聯(8299)",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 1470.0,
-      "prev": 1520.0,
-      "pct": -3.29
+      "date": "2026-11-20",
+      "close": 1355.0,
+      "prev": 1455.0,
+      "pct": -6.87
     },
     "S&P500": {
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 7323.6299,
-      "prev": 7340.5298,
-      "pct": -0.23
+      "date": "2026-11-19",
+      "close": 7175.8301,
+      "prev": 7323.6299,
+      "pct": -2.02
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 24429.8848,
-      "prev": 24328.3809,
-      "pct": 0.42
+      "date": "2026-11-19",
+      "close": 23879.1992,
+      "prev": 24429.8809,
+      "pct": -2.25
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 9652.7969,
-      "prev": 9642.8799,
-      "pct": 0.1
+      "date": "2026-11-19",
+      "close": 9419.7227,
+      "prev": 9652.7998,
+      "pct": -2.41
     },
     "NVDA": {
       "name": "NVDA",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 150.96,
-      "prev": 155.46,
-      "pct": -2.89
+      "date": "2026-11-19",
+      "close": 145.98,
+      "prev": 150.96,
+      "pct": -3.3
     },
     "MU": {
       "name": "MU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 705.27,
-      "prev": 712.42,
-      "pct": -1.0
+      "date": "2026-11-19",
+      "close": 690.44,
+      "prev": 705.27,
+      "pct": -2.1
     },
     "GOOG": {
       "name": "GOOG",
@@ -156,64 +156,64 @@
       "name": "SPY",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 730.2,
-      "prev": 732.44,
-      "pct": -0.31
+      "date": "2026-11-19",
+      "close": 715.87,
+      "prev": 730.2,
+      "pct": -1.96
     },
     "QQQ": {
       "name": "QQQ",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 659.51,
-      "prev": 656.95,
-      "pct": 0.39
+      "date": "2026-11-19",
+      "close": 645.04,
+      "prev": 659.51,
+      "pct": -2.19
     },
     "VTI": {
       "name": "VTI",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 359.48,
-      "prev": 360.19,
-      "pct": -0.2
+      "date": "2026-11-19",
+      "close": 352.41,
+      "prev": 359.48,
+      "pct": -1.97
     },
     "UUUU": {
       "name": "UUUU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 5.64,
-      "prev": 5.93,
-      "pct": -4.89
+      "date": "2026-11-19",
+      "close": 5.48,
+      "prev": 5.64,
+      "pct": -2.84
     },
     "美債10Y": {
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 5.066,
-      "prev": 5.103,
-      "pct": -0.73
+      "date": "2026-11-19",
+      "close": 5.052,
+      "prev": 5.066,
+      "pct": -0.28
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 103.878,
-      "prev": 103.86,
-      "pct": 0.02
+      "date": "2026-11-19",
+      "close": 103.944,
+      "prev": 103.9,
+      "pct": 0.04
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 24.56,
-      "prev": 25.46,
-      "pct": -3.53
+      "date": "2026-11-19",
+      "close": 28.44,
+      "prev": 24.56,
+      "pct": 15.8
     }
   },
   "missing_names": []
