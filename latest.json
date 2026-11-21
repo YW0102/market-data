@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-20T02:25:03Z",
-  "generated_at_taipei": "2026-11-20 10:25:03+08:00",
-  "taipei_date": "2026-11-20",
+  "generated_at_utc": "2026-11-21T02:34:00Z",
+  "generated_at_taipei": "2026-11-21 10:34:00+08:00",
+  "taipei_date": "2026-11-21",
   "summary": {
     "total": 23,
     "success": 23,
@@ -12,46 +12,46 @@
       "name": "台股加權",
       "status": "ok",
       "source": "twse_index",
-      "date": "2026-11-19",
-      "close": 38426.89,
-      "prev": 40194.91,
-      "pct": -4.4
+      "date": "2026-11-20",
+      "close": 36033.29,
+      "prev": 38426.89,
+      "pct": -6.23
     },
     "台積電(2330)": {
       "name": "台積電(2330)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 2010.0,
+      "close": 2000.0,
       "prev": 2100.0,
-      "pct": -4.29
+      "pct": -4.76
     },
     "玉山金(2884)": {
       "name": "玉山金(2884)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 39.8,
+      "close": 39.6,
       "prev": 40.35,
-      "pct": -1.36
+      "pct": -1.86
     },
     "兆豐金(2886)": {
       "name": "兆豐金(2886)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 52.0,
+      "close": 51.8,
       "prev": 53.4,
-      "pct": -2.62
+      "pct": -3.0
     },
     "元大金(2885)": {
       "name": "元大金(2885)",
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 60.0,
+      "close": 59.3,
       "prev": 63.2,
-      "pct": -5.06
+      "pct": -6.17
     },
     "台達電(2308)": {
       "name": "台達電(2308)",
@@ -67,9 +67,9 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 249.0,
+      "close": 252.0,
       "prev": 262.5,
-      "pct": -5.14
+      "pct": -4.0
     },
     "健策(3653)": {
       "name": "健策(3653)",
@@ -85,135 +85,135 @@
       "status": "ok",
       "source": "yahoo",
       "date": "2026-11-20",
-      "close": 1355.0,
+      "close": 1320.0,
       "prev": 1455.0,
-      "pct": -6.87
+      "pct": -9.28
     },
     "S&P500": {
       "name": "S&P500",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 7175.8301,
-      "prev": 7323.6299,
-      "pct": -2.02
+      "date": "2026-11-20",
+      "close": 6910.3901,
+      "prev": 7175.8301,
+      "pct": -3.7
     },
     "那指": {
       "name": "那指",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 23879.1992,
-      "prev": 24429.8809,
-      "pct": -2.25
+      "date": "2026-11-20",
+      "close": 22617.7324,
+      "prev": 23879.1992,
+      "pct": -5.28
     },
     "費半": {
       "name": "費半",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 9419.7227,
-      "prev": 9652.7998,
-      "pct": -2.41
+      "date": "2026-11-20",
+      "close": 8408.5908,
+      "prev": 9419.7197,
+      "pct": -10.73
     },
     "NVDA": {
       "name": "NVDA",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 145.98,
-      "prev": 150.96,
-      "pct": -3.3
+      "date": "2026-11-20",
+      "close": 125.53,
+      "prev": 145.98,
+      "pct": -14.01
     },
     "MU": {
       "name": "MU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 690.44,
-      "prev": 705.27,
-      "pct": -2.1
+      "date": "2026-11-20",
+      "close": 594.51,
+      "prev": 690.44,
+      "pct": -13.89
     },
     "GOOG": {
       "name": "GOOG",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 279.2,
-      "prev": 277.6,
-      "pct": 0.58
+      "date": "2026-11-20",
+      "close": 264.0,
+      "prev": 271.02,
+      "pct": -2.59
     },
     "PLTR": {
       "name": "PLTR",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-18",
-      "close": 156.67,
-      "prev": 156.56,
-      "pct": 0.07
+      "date": "2026-11-20",
+      "close": 143.49,
+      "prev": 153.68,
+      "pct": -6.63
     },
     "SPY": {
       "name": "SPY",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 715.87,
-      "prev": 730.2,
-      "pct": -1.96
+      "date": "2026-11-20",
+      "close": 689.81,
+      "prev": 715.87,
+      "pct": -3.64
     },
     "QQQ": {
       "name": "QQQ",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 645.04,
-      "prev": 659.51,
-      "pct": -2.19
+      "date": "2026-11-20",
+      "close": 608.45,
+      "prev": 645.04,
+      "pct": -5.67
     },
     "VTI": {
       "name": "VTI",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 352.41,
-      "prev": 359.48,
-      "pct": -1.97
+      "date": "2026-11-20",
+      "close": 340.02,
+      "prev": 352.41,
+      "pct": -3.52
     },
     "UUUU": {
       "name": "UUUU",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 5.48,
-      "prev": 5.64,
-      "pct": -2.84
+      "date": "2026-11-20",
+      "close": 4.96,
+      "prev": 5.48,
+      "pct": -9.49
     },
     "美債10Y": {
       "name": "美債10Y",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 5.052,
-      "prev": 5.066,
-      "pct": -0.28
+      "date": "2026-11-20",
+      "close": 4.912,
+      "prev": 5.052,
+      "pct": -2.77
     },
     "美元指數": {
       "name": "美元指數",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 103.944,
+      "date": "2026-11-20",
+      "close": 103.84,
       "prev": 103.9,
-      "pct": 0.04
+      "pct": -0.06
     },
     "VIX": {
       "name": "VIX",
       "status": "ok",
       "source": "yahoo",
-      "date": "2026-11-19",
-      "close": 28.44,
-      "prev": 24.56,
-      "pct": 15.8
+      "date": "2026-11-20",
+      "close": 35.89,
+      "prev": 28.44,
+      "pct": 26.2
     }
   },
   "missing_names": []
